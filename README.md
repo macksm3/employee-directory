@@ -7,7 +7,7 @@ A sample company website with a directory page that contains a searchable/sortab
 
 Github repo: https://github.com/macksm3/employee-directory
 
-Deplyed app: https://macksm3.github.io/directory
+Deplyed app: https://macksm3.github.io/employee-directory
 
 ## Table of Contents 
 
